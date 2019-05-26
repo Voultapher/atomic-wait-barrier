@@ -1,8 +1,9 @@
 #include <atomic>
 #include <chrono>
-#include <future>
 #include <cstdio>
+#include <future>
 #include <thread>
+#include <vector>
 
 #include <atomic_wait.hpp>
 
